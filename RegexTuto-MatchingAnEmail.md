@@ -184,4 +184,4 @@ Therefore, this email is invalid!
 
 ## Author
 
-My name is Christopher M. Lebreton, a junior Developer from Paris, France with a passion to master the art of coding.
+My name is Christopher M. Lebreton, a junior Developer from Paris, France with a passion to master the art of coding. You can find my work at: https://github.com/Beurre-moutarde
